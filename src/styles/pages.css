@@ -1,0 +1,50 @@
+.top-image-info{
+    height: 200px;
+    width: 100%;
+    background-image: url('../img/info.jpg');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text-div{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.bigtext{
+    padding-top: 5%;
+}
+
+.top-image-infoinfo{
+    height: 200px;
+    width: 100%;
+    background-image: url('../img/infoinfo.jpg');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.right-photo{
+    max-width: 300px;
+    max-height: 400px;
+    height: 400px;
+    width: 300px;
+    overflow: hidden;
+
+    margin-top: 20%;
+    margin-bottom: 20%;
+
+    border: solid 3px black;
+}
+
+.right-photo-img{
+    width: 100%;
+}
+.text-margin{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+}
